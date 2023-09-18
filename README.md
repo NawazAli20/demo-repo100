@@ -4,3 +4,4 @@ this is a normal text line
 
 ### Level 3 header  
 a new line is added in the local repo
+Adding line number 7
