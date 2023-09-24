@@ -8,3 +8,5 @@ Adding line number 7
 
 #### Level 4 header
 this line is added in the remore repo 
+
+**A bold line is added**
